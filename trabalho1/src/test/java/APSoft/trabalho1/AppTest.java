@@ -1,4 +1,4 @@
-package APSoft.trabalho1;
+package apsoft.trabalho1;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
