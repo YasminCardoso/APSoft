@@ -1,2 +1,2 @@
-# Arquitetura-e-Padr-es-de-Software
+#APSoft
 Repositório para trabalhos de APSoft
