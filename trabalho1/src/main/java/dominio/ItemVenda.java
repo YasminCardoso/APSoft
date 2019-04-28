@@ -1,4 +1,4 @@
-package apsoft.t1venda;
+package dominio;
 
 public class ItemVenda {
 	public Integer quantidade;
@@ -9,10 +9,6 @@ public class ItemVenda {
 
 	public void setQuantidade(Integer quantidade) {
 		this.quantidade = quantidade;
-	}
-	
-	public String toString() {
-		return quantidade.toString();
 	}
 
 }

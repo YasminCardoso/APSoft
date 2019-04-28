@@ -1,4 +1,4 @@
-package apsoft.t1venda;
+package dominio;
 
 
 public class QuantiaMonetaria {

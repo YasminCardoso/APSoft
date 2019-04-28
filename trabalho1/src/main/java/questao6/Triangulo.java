@@ -1,4 +1,4 @@
-package apsoft.t1triangulo;
+package questao6;
 
 public class Triangulo {
 	private int n1;

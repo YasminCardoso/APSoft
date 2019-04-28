@@ -1,4 +1,4 @@
-package apsoft.t1venda;
+package dominio;
 
 import java.math.BigDecimal;
 import java.util.Date;
@@ -13,7 +13,7 @@ public class Venda {
     public Map<Produto, Integer> itens = new HashMap<Produto, Integer>();
     //List<String> itens = new ArrayList<String>();
     private BigDecimal pagamento = null;
-    public String codigo;
+   // public String codigo;
     
 	
     //Método para adicionar um item a itens.
