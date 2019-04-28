@@ -12,7 +12,7 @@ public class Venda {
     public Cliente cliente;
     public Map<Produto, Integer> itens = new HashMap<Produto, Integer>();
     //List<String> itens = new ArrayList<String>();
-    public BigDecimal pagamento = null;
+    private BigDecimal pagamento = null;
     public String codigo;
     
 	
