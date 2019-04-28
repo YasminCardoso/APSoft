@@ -1,4 +1,4 @@
-package apsoft.trabalho1;
+package apsoft.t1venda;
 
 public class ItemVenda {
 	public Integer quantidade;
