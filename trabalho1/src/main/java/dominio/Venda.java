@@ -11,7 +11,6 @@ public class Venda {
     public Date data;
     public Cliente cliente;
     public Map<Produto, Integer> itens = new HashMap<Produto, Integer>();
-    //List<String> itens = new ArrayList<String>();
     private BigDecimal pagamento = null;
    // public String codigo;
     
@@ -53,7 +52,6 @@ public class Venda {
  
     }
     
-    //Do jeito que eu fiz, talvez precise de Spring, pra usar getProdutoByNome().
     public BigDecimal getTotal() {
     	BigDecimal total = null;
     	Iterator<Entry<Produto, Integer>> it = itens.entrySet().iterator();
